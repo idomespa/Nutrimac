@@ -1,0 +1,108 @@
+mar. 27, 2022 4:28:56 A. M. util.Utils escribirLog
+INFO: Error disconnect from the server: Connection closed without indication.
+mar. 27, 2022 4:51:11 A. M. util.Utils escribirLog
+INFO: Error: Cannot invoke "java.sql.Connection.close()" because "this.connex" is null
+mar. 27, 2022 4:52:51 A. M. util.Utils escribirLog
+INFO: Despues de la ejecucion: true
+mar. 27, 2022 5:12:00 A. M. util.Utils escribirLog
+INFO: Despues de la ejecucion: true
+mar. 27, 2022 5:13:49 A. M. util.Utils escribirLog
+INFO: Despues de la ejecucion: true
+mar. 27, 2022 3:05:30 P. M. util.Utils escribirLog
+INFO: Error: Cannot invoke "java.sql.Connection.close()" because "this.connex" is null
+mar. 27, 2022 4:09:17 P. M. util.Utils escribirLog
+INFO: Despues de la ejecucion: true
+mar. 27, 2022 4:11:41 P. M. util.Utils escribirLog
+INFO: Despues de la ejecucion: true
+mar. 27, 2022 4:13:30 P. M. util.Utils escribirLog
+INFO: Despues de la ejecucion: true
+mar. 27, 2022 4:20:42 P. M. util.Utils escribirLog
+INFO: Despues de la ejecucion: true
+mar. 27, 2022 4:31:29 P. M. util.Utils escribirLog
+INFO: Despues de la ejecucion: true
+mar. 27, 2022 4:33:33 P. M. util.Utils escribirLog
+INFO: Despues de la ejecucion: true
+mar. 27, 2022 4:35:41 P. M. util.Utils escribirLog
+INFO: Despues de la ejecucion: true
+mar. 27, 2022 4:39:30 P. M. util.Utils escribirLog
+INFO: Could not change working directory to images/imgBlog/2022-03-27_530847.jpg. The directory may not exist.
+mar. 27, 2022 4:41:00 P. M. util.Utils escribirLog
+INFO: Error: Cannot invoke "java.sql.Connection.close()" because "this.connex" is null
+mar. 27, 2022 4:42:18 P. M. util.Utils escribirLog
+INFO: Could not change working directory to /images/imgBlog/2022-03-27_163786.jpg. The directory may not exist.
+mar. 27, 2022 5:00:43 P. M. util.Utils escribirLog
+INFO: Could not change working directory to /images/imgBlog/2022-03-27_811220.JPG. The directory may not exist.
+mar. 27, 2022 5:03:14 P. M. util.Utils escribirLog
+INFO: Could not log out from the server
+mar. 27, 2022 5:03:33 P. M. util.Utils escribirLog
+INFO: Despues de la ejecucion: true
+mar. 27, 2022 5:06:35 P. M. util.Utils escribirLog
+INFO: Could not change working directory to /xml/2022-03-27_chori74.xml. The directory may not exist.
+mar. 27, 2022 5:06:35 P. M. util.Utils escribirLog
+INFO: Error en la subida del fichero: Could not change working directory to /xml/2022-03-27_chori74.xml. The directory may not exist.
+mar. 27, 2022 5:08:30 P. M. util.Utils escribirLog
+INFO: Despues de la ejecucion: true
+mar. 27, 2022 5:11:56 P. M. util.Utils escribirLog
+INFO: Despues de la ejecucion: true
+mar. 27, 2022 5:22:09 P. M. util.Utils escribirLog
+INFO: Despues de la ejecucion: true
+mar. 27, 2022 5:24:19 P. M. util.Utils escribirLog
+INFO: Could not log out from the server
+mar. 27, 2022 5:24:24 P. M. util.Utils escribirLog
+INFO: Despues de la ejecucion: true
+mar. 27, 2022 5:26:41 P. M. util.Utils escribirLog
+INFO: Despues de la ejecucion: true
+mar. 27, 2022 5:27:53 P. M. util.Utils escribirLog
+INFO: Despues de la ejecucion: true
+mar. 27, 2022 5:45:38 P. M. util.Utils escribirLog
+INFO: Despues de la ejecucion: true
+mar. 27, 2022 5:59:56 P. M. util.Utils escribirLog
+INFO: Despues de la ejecucion: true
+mar. 27, 2022 7:14:44 P. M. util.Utils escribirLog
+INFO: Error: Cannot invoke "java.sql.Connection.close()" because "this.connex" is null
+abr. 04, 2022 10:53:29 A. M. util.Utils escribirLog
+INFO: Error: Cannot invoke "java.sql.Connection.close()" because "this.connex" is null
+abr. 04, 2022 10:58:59 A. M. util.Utils escribirLog
+INFO: Error: /Users/chori/eclipse-workspace/NutrimacFinal/src/ftp.txt (No such file or directory)
+abr. 12, 2022 5:51:13 P. M. util.Utils escribirLog
+INFO: rellenar tabla buscar personas:Cannot invoke "mostrar.Conexion.Conectar()" because "con" is null
+abr. 12, 2022 6:16:34 P. M. util.Utils escribirLog
+INFO: error en registro de cliente existente:Cannot read field "parent" because "comp" is null
+abr. 12, 2022 6:17:05 P. M. util.Utils escribirLog
+INFO: Mensaje :Server returned HTTP response code: 500 for URL: https://nutrimac.es/php/email.php
+abr. 12, 2022 6:20:17 P. M. util.Utils escribirLog
+INFO: error en registro de cliente existente:Cannot read field "parent" because "comp" is null
+abr. 12, 2022 6:22:55 P. M. util.Utils escribirLog
+INFO: error en registro de cliente existente:Cannot read field "parent" because "comp" is null
+abr. 12, 2022 6:30:38 P. M. util.Utils escribirLog
+INFO: rellenar tabla buscar personas:Cannot invoke "mostrar.Conexion.Conectar()" because "con" is null
+abr. 12, 2022 6:32:39 P. M. util.Utils escribirLog
+INFO: Error: Cannot invoke "java.sql.Connection.close()" because "this.connex" is null
+abr. 25, 2022 10:49:09 P. M. util.Utils escribirLog
+INFO: Citas clientes error nuevo cliente :Cannot read field "parent" because "comp" is null
+abr. 25, 2022 10:50:46 P. M. util.Utils escribirLog
+INFO: Citas clientes error nuevo cliente :Cannot read field "parent" because "comp" is null
+abr. 25, 2022 11:14:55 P. M. util.Utils escribirLog
+INFO: Citas clientes error nuevo cliente :Cannot read field "parent" because "comp" is null
+abr. 25, 2022 11:15:16 P. M. util.Utils escribirLog
+INFO: Citas clientes error nuevo cliente :Cannot read field "parent" because "comp" is null
+abr. 25, 2022 11:17:31 P. M. util.Utils escribirLog
+INFO: Citas clientes error nuevo cliente :Cannot read field "parent" because "comp" is null
+abr. 25, 2022 11:18:09 P. M. util.Utils escribirLog
+INFO: Citas clientes error nuevo cliente :Cannot read field "parent" because "comp" is null
+abr. 25, 2022 11:19:39 P. M. util.Utils escribirLog
+INFO: Citas clientes error nuevo cliente :Cannot read field "parent" because "comp" is null
+abr. 25, 2022 11:21:18 P. M. util.Utils escribirLog
+INFO: Citas clientes error nuevo cliente :Cannot read field "parent" because "comp" is null
+abr. 25, 2022 11:25:27 P. M. util.Utils escribirLog
+INFO: Citas clientes error nuevo cliente :Cannot read field "parent" because "comp" is null
+abr. 25, 2022 11:26:01 P. M. util.Utils escribirLog
+INFO: Citas clientes error nuevo cliente :Cannot read field "parent" because "comp" is null
+abr. 25, 2022 11:28:21 P. M. util.Utils escribirLog
+INFO: Citas clientes error nuevo cliente :Cannot read field "parent" because "comp" is null
+abr. 25, 2022 11:30:55 P. M. util.Utils escribirLog
+INFO: Citas clientes error nuevo cliente :Cannot read field "parent" because "comp" is null
+abr. 27, 2022 10:12:14 P. M. util.Utils escribirLog
+INFO: Mensaje :Server returned HTTP response code: 500 for URL: https://nutrimac.es/php/email.php
+abr. 27, 2022 10:12:48 P. M. util.Utils escribirLog
+INFO: Mensaje :Server returned HTTP response code: 500 for URL: https://www.nutrimac.es/php/email.php
