@@ -27,10 +27,8 @@ public class Conexion {
 			} catch (IOException e) {
 				e.printStackTrace();
 			}*/
-			String conexion="jdbc:mysql://sql587.main-hosting.eu/u105646651_nutrimac";
-			connex =DriverManager.getConnection(conexion,"u105646651_estandar","ComiendoChurros1999@");
-			//String conexion="jdbc:mysql://localhost:8889/nutrimac";
-			//connex =DriverManager.getConnection(conexion,"estandar","Informacion2022");
+			String conexion="jdbc:mysql://localhost:8889/nutrimac";
+			connex =DriverManager.getConnection(conexion,"estandar","Informacion2022");
 		} catch (SQLException e) {
 			Utils.escribirLog("Error de conexion"+e.getMessage());
 			e.printStackTrace();
